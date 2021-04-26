@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO_8</string>
+    <string name="type_a_website">Type a website</string>
+    <string name="type_the_location">Type the Location</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="open_website">Open website</string>
+    <string name="open_location">Open Location</string>
+    <string name="share_this_text">Share This Text</string>
+</resources>
