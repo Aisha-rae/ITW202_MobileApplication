@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO_13</string>
+    <string name="icecream_sandwitch">Icecream Sandwitch</string>
+    <string name="froyo">froyo</string>
+    <string name="donut">Donut</string>
+    <string-array name="item_list">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
