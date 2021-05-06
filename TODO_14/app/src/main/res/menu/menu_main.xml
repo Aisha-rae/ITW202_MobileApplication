@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools= "http://schemas.android.com/tools"
+    tools:context="com.gcit.todo_13.MainActivity">
+
+    <item
+        android:id="@+id/action_status"
+        android:orderInCategory="20"
+        android:title="@string/status"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="40"
+        android:title="@string/contact"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="10"
+        android:title="@string/order"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_favourites"
+        android:orderInCategory="30"
+        android:title="@string/favourite"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_shopping"
+        android:orderInCategory="5"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="@string/shopping"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_question"
+        android:orderInCategory="7"
+        android:icon="@drawable/ic_baseline_error_24"
+        android:title="@string/query"
+        app:showAsAction="always"
+        />
+</menu>
